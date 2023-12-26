@@ -33,4 +33,4 @@ Pour reproduire les expériences menées dans ce projet, suivez simplement les i
 
 ## Choix du Modèle
 
-Pour choisir le modèle à utiliser, modifiez le chemin dans `utils.py` :
+Pour choisir le modèle à utiliser, modifiez le chemin dans `utils.py`
